@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 ![de](https://github.com/SAISANJAY10/HALF_ADDER_SUBTRACTOR/assets/144228073/7d762f8c-35be-4365-a8ca-30c6ab90d71a)
 
 **Procedure**
@@ -71,10 +72,12 @@ endmodule
 Developed by: 212223040178:SAI SANJAY R
 
 **RTL Schematic**
+
 ![DE 1](https://github.com/SAISANJAY10/HALF_ADDER_SUBTRACTOR/assets/144228073/0f69877c-64fc-4ae6-88f0-ed288a0b60be)
 
 
 **Output/TIMING Waveform**
+
 HALF ADDER:
 ![DE 3](https://github.com/SAISANJAY10/HALF_ADDER_SUBTRACTOR/assets/144228073/3568b56d-798d-48c2-a978-8ab0f6488841)
 
@@ -84,4 +87,5 @@ HALF SUBTRACTOR:
 
 
 **Result:**
+
 The code is excecuted successfully.
